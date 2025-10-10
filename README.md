@@ -1,6 +1,6 @@
 # 🐾 PetCafe
 
-**PetCafe** is a modern SwiftUI iOS app that lets users explore pet cafes. 
+**PetCafe** is a modern iOS app that lets users explore pet cafes. 
 Built with a modular structure for scalability and code reuse.
 
 ---
